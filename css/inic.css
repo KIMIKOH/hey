@@ -1,0 +1,67 @@
+#titulo{   
+  position: absolute;
+  top: 5px;    
+  left: 44%;      
+  margin-left: -300px; 
+  font-size: 23px;  
+  color: #0B5B67;   
+}
+.datos-class{
+  position: absolute;
+  top: 100px;    
+  left: 333px;       
+  font-size: 17px;          
+}
+#logoc{
+  position: absolute;    
+  width: 100px;
+  height: 120px;  
+  top: 44px; 
+  left: 1010px       
+}
+#rol{
+  position: absolute;
+  top: 240px;    
+  left: 310px; 
+  color: #0B5B67;
+  font-size: 30px;    
+             
+}
+#logor{
+  position: absolute;    
+  width: 140px;
+  height: 90px;  
+  top: 220px; 
+  left: 1070px      
+}
+.tabla-class{ 
+  position: absolute;
+  left: 48%;    
+  margin-left: -400px;
+  top: 50%   
+}
+#numb{
+  font-size: 18px;  
+}
+.t-class{
+  width: 1000px;   
+  border-width: thin;
+  border-style: solid;
+  border-color: #000; 
+  font-size: 15px;   
+  padding: 1em;
+}
+tr, table{
+   border: 1px solid black;
+   border-collapse: separate; 
+   border-spacing: 50px 25px;
+}
+
+#css{
+  position: absolute;
+  top: 1000px;    
+  left: 44%;      
+  margin-left: -300px; 
+  font-size: 27px;  
+  color: #0B5B67;    
+}
